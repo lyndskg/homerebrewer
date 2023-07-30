@@ -8,7 +8,7 @@ homerebrewer automatically troubleshoots and debugs Homebrew package or library 
 
 The project will utilize system analysis, error detection algorithms, and user-friendly outputs to assist users in resolving installation problems with Homebrew packages.
 
-Implemented and tested on a PC running macOS Venture 14.3.1 w/ arm64 architecture. 
+Implemented and tested on a PC running macOS Ventura 14.3.1 w/ arm64 architecture. 
 
 
 ## Key Features:
