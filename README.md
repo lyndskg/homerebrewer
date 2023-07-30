@@ -1,7 +1,8 @@
 # homerebrewer
 
-## Description:
 Automatic Troubleshooting for Homebrew Package Installations 
+
+## Description:
 
 homerebrewer automatically troubleshoots and debugs Homebrew package or library installation issues on your local machine.
 
